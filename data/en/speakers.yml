@@ -1,0 +1,63 @@
+---
+speakers:
+  enable: true
+  title: Our Speakers
+  speaker_member:
+  - name: Brett Miller
+    image_webp: ''
+    image: images/speakers/brett-miller-col.jpg
+    designation: GitOps - Demystifying Git for Ops Folk
+    content: I have worked in IT around 10 years and have been a System Administrator
+      for around 3 of those years. I began learning Powershell as a means to automate
+      dull tasks, mainly around Active Directory, and I caught the bug. I now spend
+      most of my day either in VSCode or a Powershell console in some way shape or
+      form.
+    social:
+    - icon: ti-github
+      link: https://github.com/brettmillerb
+    - icon: ti-twitter-alt
+      link: https://twitter.com/BrettMiller_IT
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/brett-millerit/
+    - icon: ti-microsoft-alt
+      link: https://mvp.microsoft.com/en-us/PublicProfile/5003634?fullName=Brett%20Miller
+    - icon: ti-home
+      link: https://millerb.co.uk
+  - name: Chrissy LeMaire
+    image_webp: ''
+    image: images/speakers/chrissy-lemaire-col.jpg
+    designation: 'GitHub Galore: My top 3 favorite new features!'
+    content: 'Chrissy is a dual Microsoft MVP who has worked in IT for over 20 years.
+      She is the creator of the popular SQL PowerShell module dbatools, holds a master''s
+      degree in Systems Engineering and is coauthor of Learn dbatools in a Month of
+      Lunches. '
+    social:
+    - icon: ti-github
+      link: https://github.com/potatoqualitee
+    - icon: ti-twitter-alt
+      link: https://twitter.com/cl
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/chrissylemaire/
+    - icon: ti-microsoft-alt
+      link: https://mvp.microsoft.com/en-us/PublicProfile/5001321?fullName=Chrissy%20LeMaire
+    - icon: ti-home
+      link: https://dbatools.io
+  - name: Gary Ewan Park
+    image_webp: ''
+    image: images/speakers/gary-ewan-park-col.jpg
+    designation: Control your GitHub Releases with GitVersion and GitReleaseManager
+    content: I am a self-confessed Microsoft Fan Boy. I am a certified Microsoft Developer,
+      and I am more than happy to talk at length about anything geek related. In addition
+      to coding, I love automating things. Especially around automated deployment
+      of code, as well as infrastructure. Automate all the things!
+    social:
+    - icon: ti-github
+      link: https://github.com/gep13
+    - icon: ti-twitter-alt
+      link: https://twitter.com/gep13
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/gep13
+    - icon: ti-home
+      link: https://gep13.co.uk
+    - icon: ti-microsoft-alt
+      link: https://mvp.microsoft.com/en-us/PublicProfile/5002701?fullName=Gary%20Ewan%20Park

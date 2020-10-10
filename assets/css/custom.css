@@ -1,0 +1,35 @@
+.call-to-action h2 {
+  color: #fff;
+  font-weight: 800;
+}
+
+.call-to-action p {
+    color: #fff;
+    font-weight: 800;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.header-bradcrumb a,
+.header-bradcrumb .active {
+  font-family: "Roboto", sans-serif;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Fira Sans", sans-serif;
+}
+
+.skill-bar .progress {
+    margin-bottom: 1rem;
+}
