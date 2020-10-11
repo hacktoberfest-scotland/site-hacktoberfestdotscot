@@ -1,0 +1,24 @@
+---
+channels:
+  enable: true
+  title: Our Rooms
+  subtitle: We have a fun, interesting and entirely awesome agenda!
+  content: |
+    We've lined up some great places for you to hang out! Come and listen to our wonderful speakers, get help with your first PR or just have a chat!
+
+    Feel free to enter and leave the Sessions Room for the sessions you wish to see. Please be considerate and remain muted unless asking a question.
+  image: ''
+  channels_item:
+  - name: General Room - come and chat!
+    percent: 90%
+  - name: Sessions Room - watch our fabulous speakers!
+    percent: 70%
+  - name: My First Hacktoberfest Room - get help with your first PR!
+    percent: 80%
+  - name: Hacking Room - get those PR's in!
+    percent: 95%
+title: channels.yml
+menu:
+  main:
+    name: channels
+    weight: 3

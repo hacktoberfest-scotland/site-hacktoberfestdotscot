@@ -1,0 +1,60 @@
+---
+organisers:
+  enable: true
+  title: Our Organisers
+  team_member:
+  - name: Paul Broadwith
+    image_webp: ''
+    image: images/organisers/paul-broadwith-col.jpg
+    designation: Hacktoberfest Scotland Organiser
+    content: |-
+      This will be my 5th Hacktoberfest that I have participated in and my 3rd year organising an event with Craig!
+
+      I'm a Microsoft Cloud and Datacenter MVP, Microsoft Certified Trainer, a DevOps Engineer with a love of PowerShell, Automation, Chocolatey, Scottish single malt whisky and wireless earphones.
+    social:
+    - icon: ti-github
+      link: https://github.com/pauby
+    - icon: ti-twitter-alt
+      link: https://twitter.com/pauby
+    - icon: ti-linkedin
+      link: https://linkedin.com/in/paulbroadwith
+    - icon: ti-microsoft-alt
+      link: https://mvp.microsoft.com/en-us/mvp/Paul%20Broadwith-5003387
+    - icon: ti-home
+      link: https://blog.pauby.com
+  - name: Craig Porteous
+    image_webp: ''
+    image: images/organisers/craig-porteous-col.jpg
+    designation: Hacktoberfest Scotland Organiser
+    content: |-
+      I'm a Senior Data Engineer and Microsoft Data Platform MVP. I have worked with the Data Platform for more than a decade, supporting global BI Environments, automating processes with PowerShell and implementing BI Solutions.
+
+      This is my 4th year of participating in Hacktoberfest and my 3rd year organising an event with Paul.
+    social:
+    - icon: ti-github
+      link: https://github.com/cporteou
+    - icon: ti-twitter-alt
+      link: http://twitter.com/cporteous
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/craigporteous/
+    - icon: ti-microsoft-alt
+      link: https://mvp.microsoft.com/en-us/mvp/Craig%20%20Porteous-5003301
+    - icon: ti-home
+      link: https://craigporteous.com/
+  - name: Ewa Grabowiecka
+    image_webp: ''
+    image: images/organisers/ewa-grabowiecka-col.jpg
+    designation: Hacktoberfest Scotland Aidee
+    content: |-
+      I am a Software Developer with a love all things community and good code practices (I even run a meetup called CodeCraft). This is my 2nd hacktoberfest event and I'm keen to support others in contributing to open source!
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/ewa-grabowiecka-31655950
+    - icon: ti-home
+      link: https://www.codecraftuk.org/
+
+title: organisers.yml
+menu:
+  main:
+    name: organisers
+    weight: 1
