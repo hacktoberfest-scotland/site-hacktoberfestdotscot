@@ -6,10 +6,10 @@ banner:
   icon: ''
   title: Hacktoberfest Scotland
   content: |-
-    10 October from 12pm to 4pm BST
+    10 October 2020 from 12pm to 4pm BST
 
     (11am to 3pm UTC)
   button:
-    enable: true
+    enable: fales
     label: Register Now
-    link: https://organize.mlh.io/participants/events/4396-hacktoberfest-scotland
+    link: 
