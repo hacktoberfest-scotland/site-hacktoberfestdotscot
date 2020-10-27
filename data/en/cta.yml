@@ -9,7 +9,7 @@ cta:
 
     Everyone who signs up will receive a Microsoft Teams invite within 48 hours or registering in October so you can jump in and chat, share and learn all month, not just during the event.
   button:
-    enable: true
+    enable: false
     label: Register Now
-    link: https://organize.mlh.io/participants/events/4396-hacktoberfest-scotland
-draft: true
+    link: 
+draft: false
