@@ -1,6 +1,6 @@
 ---
 cta:
-  enable: true
+  enable: false
   bg_image: "/images/backgrounds/hacktoberfest-2020-banner-1200w.jpg"
   bg_image_webp: "/images/backgrounds/hacktoberfest-2020-banner-1200w.webp"
   title: Get Your Ticket For Hacktoberfest Scotland
