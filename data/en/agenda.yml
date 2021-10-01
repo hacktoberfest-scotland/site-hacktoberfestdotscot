@@ -1,6 +1,6 @@
 ---
 agenda:
-  enable: true
+  enable: false
   image: images/saltire.jpg
   image_webp: images/saltire.webp
   title: Our Agenda.

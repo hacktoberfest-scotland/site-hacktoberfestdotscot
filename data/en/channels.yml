@@ -1,6 +1,6 @@
 ---
 channels:
-  enable: true
+  enable: false
   title: Our Rooms
   subtitle: We have a fun, interesting and entirely awesome agenda!
   content: |

@@ -8,7 +8,7 @@ organisers:
     image: images/organisers/paul-broadwith-col.jpg
     designation: Hacktoberfest Scotland Organiser
     content: |-
-      This will be my 5th Hacktoberfest that I have participated in and my 3rd year organising an event with Craig!
+      This will be my 6th Hacktoberfest that I have participated in and my 4th year organising an event with Craig!
 
       I'm a Microsoft Cloud and Datacenter MVP, Microsoft Certified Trainer, a DevOps Engineer with a love of PowerShell, Automation, Chocolatey, Scottish single malt whisky and wireless earphones.
     social:
@@ -29,7 +29,7 @@ organisers:
     content: |-
       I'm a Senior Data Engineer and Microsoft Data Platform MVP. I have worked with the Data Platform for more than a decade, supporting global BI Environments, automating processes with PowerShell and implementing BI Solutions.
 
-      This is my 4th year of participating in Hacktoberfest and my 3rd year organising an event with Paul.
+      This is my 5th year of participating in Hacktoberfest and my 4th year organising an event with Paul.
     social:
     - icon: ti-github
       link: https://github.com/cporteou
@@ -41,17 +41,6 @@ organisers:
       link: https://mvp.microsoft.com/en-us/mvp/Craig%20%20Porteous-5003301
     - icon: ti-home
       link: https://craigporteous.com/
-  - name: Ewa Grabowiecka
-    image_webp: ''
-    image: images/organisers/ewa-grabowiecka-col.jpg
-    designation: Hacktoberfest Scotland Aidee
-    content: |-
-      I am a Software Developer with a love all things community and good code practices (I even run a meetup called CodeCraft). This is my 2nd hacktoberfest event and I'm keen to support others in contributing to open source!
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/ewa-grabowiecka-31655950
-    - icon: ti-home
-      link: https://www.codecraftuk.org/
 
 title: organisers.yml
 menu:

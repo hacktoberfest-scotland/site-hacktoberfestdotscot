@@ -1,15 +1,14 @@
 ---
 cta:
   enable: false
-  bg_image: "/images/backgrounds/hacktoberfest-2020-banner-1200w.jpg"
-  bg_image_webp: "/images/backgrounds/hacktoberfest-2020-banner-1200w.webp"
+  bg_image: "/images/backgrounds/hacktoberfest-2021-banner.jpg"
+  bg_image_webp: "/images/backgrounds/hacktoberfest-2021-banner.webp"
   title: Get Your Ticket For Hacktoberfest Scotland
   content: |
-    This event is organised by Craig Porteous and Paul Broadwith. This is the third year we have organised and hosted a #Hacktoberfest event but this one will be a little different.
+    This event is organised by Craig Porteous and Paul Broadwith. This is the fourth year we have organised and hosted a #Hacktoberfest event!
 
-    Everyone who signs up will receive a Microsoft Teams invite within 48 hours or registering in October so you can jump in and chat, share and learn all month, not just during the event.
   button:
-    enable: false
+    enable: true
     label: Register Now
-    link: 
+    link: https://www.eventbrite.com/e/hacktoberfest-scotland-tickets-183645678167
 draft: false

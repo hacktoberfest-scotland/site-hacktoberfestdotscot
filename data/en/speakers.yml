@@ -1,6 +1,6 @@
 ---
 speakers:
-  enable: true
+  enable: false
   title: Our Speakers
   speaker_member:
   - name: Brett Miller
