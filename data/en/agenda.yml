@@ -14,13 +14,36 @@ agenda:
     content: Introduction from Craig and Paul in our General Room.
   - title: 12:30 to 13:30
     icon: ti-time
-    content: Brett Miller - _Works on my machine_ in the Session Room
+    content: 'Brett Miller - _Works on my machine_ in the Session Room.
+
+
+    Learn why everyone should be using containers to develop and maintain solutions from scripts to serverless code and next time it works on your machine it will work in production!'
   - title: 13:30 to 14:30
     icon: ti-time
-    content: Chrissy LeMaire - _TBC_
+    content: 'Chrissy LeMaire - _Building a GitHub Community: Contributing to and Maintaining Open Source Projects_ in the Session Room.
+
+
+    It seems like most of tech world is now contributing to open source projects. If you''re still hesitant, join me for this session where I highlight how easy it can be using my favorite GUI tool for contributing to git-based projects.
+
+    
+    If you''ve already created your own project, the second part of my session is for you. It focuses on building your community and maintaining the people aspect of open source.'
   - title: 14:30 to 15:30
     icon: ti-time
-    content: Gary Park - _TBC_
+    content: 'Gary Park - _Getting started with Open Source Software - a Beginners Guide_ in the Session Room.
+
+
+    So, you want to contribute to an open source project, or you want to start your own open source project...
+
+
+    This is great news, and a fantastic opportunity to learn new things and collaborate with other like minded people.
+
+
+    But how do you get started?
+
+
+    In this talk we will look at the first steps for both a contributor to an open source project, as we as how to get started as the maintainer of a new open source project.
+
+We will mainly be focused on how to get started using GitHub, however, the guidelines provided in this talk are applicable to other places like GitLab, BitBucket, etc.'
   - title: 15:30 to 17:00
     icon: ti-time
     content: Join us in the General Room for the after party chat!

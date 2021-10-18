@@ -6,13 +6,13 @@ speakers:
   - name: Brett Miller
     image_webp: ''
     image: images/speakers/brett-miller-col.jpg
-    designation: Works on my machine.
-    content: I began learning Powershell as a means to automate dull tasks, mainly
+    designation: 'Works on my machine.'
+    content: 'I began learning Powershell as a means to automate dull tasks, mainly
       around Active Directory and user management but little did I know that this
       would lead me on a path to writing code on a daily basis in a multitude of
       programming languages, learning about testing and publishing code and
       development practices are now a mainstay in everything that I do and advocating
-      of DevOps and software engineering practices.
+      of DevOps and software engineering practices.'
     social:
     - icon: ti-github
       link: https://github.com/brettmillerb
@@ -27,7 +27,7 @@ speakers:
   - name: Chrissy LeMaire
     image_webp: ''
     image: images/speakers/chrissy-lemaire-col.jpg
-    designation: 'GitHub Galore: My top 3 favorite new features!'
+    designation: 'Building a GitHub Community: Contributing to and Maintaining Open Source Projects'
     content: 'Chrissy is a dual Microsoft MVP who has worked in IT for over 20 years.
       She is the creator of the popular SQL PowerShell module dbatools, holds a master''s
       degree in Systems Engineering and is coauthor of Learn dbatools in a Month of
@@ -46,11 +46,11 @@ speakers:
   - name: Gary Ewan Park
     image_webp: ''
     image: images/speakers/gary-ewan-park-col.jpg
-    designation: Control your GitHub Releases with GitVersion and GitReleaseManager
-    content: I am a self-confessed Microsoft Fan Boy. I am a certified Microsoft Developer,
+    designation: 'Getting Started with Open Source Software - a Beginners Guide'
+    content: 'I am a self-confessed Microsoft Fan Boy. I am a certified Microsoft Developer,
       and I am more than happy to talk at length about anything geek related. In addition
       to coding, I love automating things. Especially around automated deployment
-      of code, as well as infrastructure. Automate all the things!
+      of code, as well as infrastructure. Automate all the things!'
     social:
     - icon: ti-github
       link: https://github.com/gep13
