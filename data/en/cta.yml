@@ -3,12 +3,12 @@ cta:
   enable: true
   bg_image: "/images/backgrounds/hacktoberfest-2021-banner.jpg"
   bg_image_webp: "/images/backgrounds/hacktoberfest-2021-banner.webp"
-  title: Get Your Ticket For Hacktoberfest Scotland
+  title: Hacktoberfest Scotland 2021 has finished
   content: |
     This event is organised by Craig Porteous and Paul Broadwith. This is the fourth year we have organised and hosted a #Hacktoberfest event!
 
   button:
     enable: true
-    label: Register Now
-    link: https://www.eventbrite.com/e/hacktoberfest-scotland-tickets-183645678167
+    label: Watch Sessions on YouTube
+    link: https://www.youtube.com/channel/UCQrTnGGwXZdUVyR3Q9IFxPw
 draft: false
