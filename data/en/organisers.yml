@@ -8,7 +8,7 @@ organisers:
     image: images/organisers/paul-broadwith-col.jpg
     designation: Hacktoberfest Scotland Organiser
     content: |-
-      This will be my 6th Hacktoberfest that I have participated in and my 4th year organising an event with Craig!
+      This will be my 6th Hacktoberfest that I have participated in and my 4th year organising the Hacktoberfest event with Craig!
 
       I'm a Microsoft Cloud and Datacenter MVP, Microsoft Certified Trainer, a DevOps Engineer with a love of PowerShell, Automation, Chocolatey, Scottish single malt whisky and wireless earphones.
     social:
@@ -27,9 +27,9 @@ organisers:
     image: images/organisers/craig-porteous-col.jpg
     designation: Hacktoberfest Scotland Organiser
     content: |-
-      I'm a Senior Data Engineer and Microsoft Data Platform MVP. I have worked with the Data Platform for more than a decade, supporting global BI Environments, automating processes with PowerShell and implementing BI Solutions.
+      I'm a Principal Data Engineering Consultant and Microsoft Data Platform MVP. I bring data and automation together. I love to learn and share what I learn with the technical community. I enjoy running and live for my family. He/Him
 
-      This is my 5th year of participating in Hacktoberfest and my 4th year organising an event with Paul.
+      This is my 5th year of participating in Hacktoberfest and my 4th year organising the Hacktoberfest event with Paul.
     social:
     - icon: ti-github
       link: https://github.com/cporteou
