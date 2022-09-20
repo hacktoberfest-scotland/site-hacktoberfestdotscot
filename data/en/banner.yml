@@ -6,10 +6,8 @@ banner:
   icon: ''
   title: Hacktoberfest Scotland
   content: |-
-    23 October 2021 from 12pm to 4pm BST
-
-    (11am to 3pm UTC)
+    Paul and Craig are taking a break from hosting Hacktoberfest in 2022! 😢
   button:
     enable: true
-    label: Watch Sessions on YouTube
+    label: Watch 2021 Sessions on YouTube
     link: https://www.youtube.com/channel/UCQrTnGGwXZdUVyR3Q9IFxPw
